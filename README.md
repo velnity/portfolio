@@ -1,6 +1,6 @@
-# # fazeel.vercel.app — Portfolio
+# fazeel.vercel.app — Portfolio
 
-Personal portfolio of Fazeel, an independent AI Workflow Engineer building custom automation systems for B2B SaaS teams.
+Personal portfolio of Fazeel, an independent AI engineer building custom AI-powered tools and systems for B2B SaaS teams.
 
 ## Live
 
@@ -15,7 +15,7 @@ This is a single-file static portfolio built in plain HTML, CSS, and JavaScript 
 | Project | What it does | Live |
 |---------|-------------|------|
 | FinSight | AI financial statement analyzer — health score, ratio breakdown, red flag detection, and plain English verdict | [finsight.fazeelahmedwork12.workers.dev](https://finsight.fazeelahmedwork12.workers.dev) |
-| ClauseIQ | AI contract risk analyzer — clause-by-clause breakdown, hidden obligation detection, negotiation leverage points | [clauseiq.fazeelahmedwork12.workers.dev](https://clauseiq.fazeelahmedwork12.workers.dev) |
+| ClauseIQ | AI contract risk analyzer — clause-by-clause breakdown, hidden obligation detection, and negotiation leverage points | [clauseiq.fazeelahmedwork12.workers.dev](https://clauseiq.fazeelahmedwork12.workers.dev) |
 
 ## What's Inside
 
